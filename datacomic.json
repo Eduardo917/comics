@@ -1,0 +1,184 @@
+{
+  "comics": [{
+    "id": 1,
+    "numero": "001",
+    "nombre": "La Muerte del Capitán Marvel",
+    "img": "https://ibb.co/5Yv0rV9",
+    "autores": "Jim Starlin",
+    "editorial": "Marvel Comics",
+    "lanzamiento": "1982",
+    "descripcion":
+     "El Capitán Marvel se enfrenta al único enemigo al que no puede vencer: la muerte."
+  }, {
+    "id": 2,
+    "numero": "002",
+    "nombre": "El Guantelete del Infinito",
+    "img": "https://ibb.co/MDPSBdm",
+    "autores": "Jim Starlin, George Pérez, Ron Lim",
+    "editorial": "Marvel Comics",
+    "lanzamiento": "1991",
+    "descripcion": "Para Thanos, el Guantelete del Infinito es el Santo Grial, con él, lo controla todo. Liderados por Adam Warlock, los superhéroes de la Tierra representan la última esperanza del Universo."
+  }, {
+    "id": 3,
+    "numero": "003",
+    "nombre": "Watchmen",
+    "img": "https://ibb.co/rcs96M7",
+    "autores": "Alan Moore, Dave Gibbons",
+    "editorial": "DC Comics",
+    "lanzamiento": "1986",
+    "descripcion": "El cruento asesinato de Edward Blake, el Comediante, deja tras de sí un smiley manchado de sangre y moviliza a los pocos justicieros que aún viven, juntos afrontarán un pasado terrible, bajo la sombra de los Minutemen, y tratarán de superarlo para salvar el futuro."
+  }, {
+    "id": 4,
+    "numero": "004",
+    "nombre": "Batman: El regreso del Caballero Oscuro",
+    "img": "https://ibb.co/YN52TPP",
+    "autores": "Frank Miller",
+    "editorial": "DC Comics",
+    "lanzamiento": "1986",
+    "descripcion": "Batman, ya anciano, vuelve a vestir el uniforme, embozarse en la capa del hombre murciélago y combatir al crimen."
+  }, {
+    "id": 5,
+    "numero": "005",
+    "nombre": "The Sandman",
+    "img": "https://ibb.co/Y0ZXr1L",
+    "autores": "Neil Gaiman, Sam Kieth, Mike Dringenberg",
+    "editorial": "Vertigo/DC Comics",
+    "lanzamiento": "1989",
+    "descripcion": "A lo largo de sus historias el rey de los sueños (Sandman) aprenderá que uno debe cambiar o morir."
+  }, {
+    "id": 6,
+    "numero": "006",
+    "nombre": "Action Comics: Superman",
+    "img": "https://ibb.co/0ZV0qHf",
+    "autores": "Jerry Siegel, Joe Shuster",
+    "editorial": "National Publications (DC Comics)",
+    "lanzamiento": "1938",
+    "descripcion": "Superman hace su primera aparición levantando un auto verde, imagen que desde ese momento marcaría un hito en la historia del cómic y de la cultura popular."
+  }, {
+    "id": 7,
+    "num": "007",
+    "nombre": "V for Vendetta",
+    "img": "https://ibb.co/80Hvbhy",
+    "autores": "Alan Moore, David Lloyd",
+    "editorial": "DC Comics",
+    "lanzamiento":  "1988",
+    "descripcion": "Una impactante y poderosa historia acerca de la pérdida de la libertad y de la identidad, en un mundo totalitario y aterrorizante."
+  }, {
+    "id": 8,
+    "numero": "008",
+    "nombre": "Sin City",
+    "img": "https://ibb.co/NtCDTTZ",
+    "autores": "Frank Miller",
+    "editorial": "Dark Horse Comics",
+    "lanzamiento": "1991",
+    "descripcion": "Historias crudas y violentas de la ciudad del pecado."
+  }, {
+    "id": 9,
+    "numero": "009",
+    "nombre": "The Amazing Spiderman",
+    "img": "https://ibb.co/9nnkrVm",
+    "autores": "Stan Lee, Steve Ditkd",
+    "editorial": "Marvel Comics",
+    "lanzamiento": "1963",
+    "descripcion": "El personaje Spiderman aparece por primera vez en el cómic Amazing Fantasy Nº15 (1962). La serie fue cancelada con esta publicación, pero la acogida del personaje fue tan positiva que una nueva revista, The Amazing Spiderman, fue lanzada a la fecha de marzo de 1963."
+  }, {
+    "id": 10,
+    "numero": "010",
+    "nombre": "300",
+    "img": "https://ibb.co/5Y1zVC6",
+    "autores": "Frank Miller",
+    "editorial": "Dark Horse Comics",
+    "lanzamiento": "1998",
+    "descripcion": "Año 480 a.C. Jerjes y su imparable ejército persa están conquistando todo el mundo conocido. Nada puede pararlos, nada puede detenerlos. Nada, excepto la determinación de un espartano."
+  }, {
+    "id": 11,
+    "numero": "011",
+    "nombre": "The Avengers",
+    "img": "https://ibb.co/2gWgBsF",
+    "autores": "Stan Lee, Jack Kirby",
+    "editorial": "Marvel Comics",
+    "lanzamiento": "1963",
+    "descripcion": "Loki pretende atraer a Thor a una trampa en la isla del Silencio,Thor derrota a Loki y lo lleva a la Tierra para que confiese su engaño. Los héroes, a sugerencia de la Avispa y el Hombre Hormiga, deciden unirse y formar Los Vengadores."
+  }, {
+    "id": 12,
+    "numero": "012",
+    "nombre": "Liga de la Justicia",
+    "img": "https://ibb.co/zfKtjwD",
+    "autores": "Bryan Hitch, Tony S. Daniel",
+    "editorial": "DC Comics",
+    "lanzamiento": "2017",
+    "descripcion": "Amanece un nuevo día para los héroes más grandes de la tierra cuando dan la bienvenida a tres nuevos miembros al equipo."
+  }, {
+    "id": 13,
+    "numero": "013",
+    "nombre": "Spawn",
+    "img": "https://ibb.co/G3xGjF3",
+    "autores": "Todd McFarlane",
+    "editorial": "Image Comics",
+    "lanzamiento": "1992",
+    "descripcion": "Spawn es un demonio de naturaleza simbiótica creado con el objetivo de ser un comandante de las tropas del infierno, para enfrentarse a las huestes del cielo en el próximo armagedón."
+  }, {
+    "id": 14,
+    "numero": "014",
+    "nombre": "Batman: La broma asesina",
+    "img": "https://ibb.co/fvgNYR1",
+    "autores": "Alan Moore",
+    "editorial": "DC Comics",
+    "lanzamiento": "2016",
+    "descripcion": "La historia examina el trasfondo del Joker y muestra sus orígenes y primer encuentro con Batman."
+  }, {
+    "id": 15,
+    "numero": "015",
+    "nombre": "The Fantastic Four",
+    "img": "https://ibb.co/D70GHF6",
+    "autores": "Stan Lee, Jack Kirby",
+    "editorial": "Marvel",
+    "lanzamiento": "1961",
+    "descripcion": "Debut de los Cuatro Fantásticos, quienes obtuvieron superpoderes tras la exposición a rayos cósmicos durante una misión científica al espacio exterior."
+  }, {
+    "id": 16,
+    "numero": "016",
+    "nombre": "La Cosa del Pantano",
+    "img": "https://ibb.co/QYjWwzg",
+    "autores": "Alan Moore",
+    "editorial": "Vertigo/DC Comics",
+    "lanzamiento": "2018",
+    "descripcion": "Tras un horrible accidente, el doctor Alec Holland se convirtió en la Cosa del Pantano, una criatura elemental que lucha contra la autodestrucción de un mundo dominado por la contaminación."
+ }, {
+    "id": 17,
+    "numero": "017",
+    "nombre": "Daredevil: Born Again",
+    "img": "https://ibb.co/8KhPcxv",
+    "autores": "Frank Miller, David Muzzucchelli",
+    "editorial": "Marvel",
+    "lanzamiento": "1986",
+    "descripcion": "La historia detalla el descenso a la locura de Matt (Daredevil) a manos de Kingpin, y la lucha para construirse una nueva vida después de esto."
+ }, {
+    "id": 18,
+    "numero": "018",
+    "nombre": "Maus: Relato de un superviviente",
+    "img": "https://ibb.co/9yKgfG2",
+    "autores": "Art Spiegelman",
+    "editorial": "Apex Novelties (Pantheon Books)",
+    "lanzamiento": "1991",
+    "descripcion": "En Maus, Art Spiegelman narra la historia real de su padre Vladek Spiegelman, de origen judío polaco, durante la Segunda Guerra Mundial."
+ }, {
+    "id": 19,
+    "numero": "019",
+    "nombre": "Y: El último hombre",
+    "img": "https://ibb.co/3vN5BqC",
+    "autores": "Brian K. Vaughan, Pia Guerra",
+    "editorial": "Vertigo/DC Comics",
+    "lanzamiento": "2002",
+    "descripcion": "En 2002, el mundo cambia para siempre. Todo hombre, chico y mamífero con cromosoma Y sobre la faz de la Tierra se desploma súbitamente y muere."
+ }, {
+    "id": 20,
+    "numero": "020",
+    "nombre": "El Predicador",
+    "img": "https://ibb.co/WG03bn0",
+    "autores": "Garth Ennis, Steve Dillon",
+    "editorial": "Vertigo/DC Comics",
+    "lanzamiento": "1995",
+    "descripcion": "La historia comienza cuando Jesse Custer (el predicador) es poseído accidentalmente por una criatura sobrenatural llamada “Génesis”, esto desatará una serie de acontencimientos inesperados en su pueblo."
+  }]
+}
